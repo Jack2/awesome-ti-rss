@@ -1,0 +1,31 @@
+# RSS List
+## About Threat Intel Feed
+- https://securelist.com/feed/
+- https://www.crowdstrike.com/blog/feed
+- https://cloudblogs.microsoft.com/microsoftsecure/feed/
+- https://blog.rapid7.com/rss
+- https://www.securonix.com/blog/feed/
+- http://twitrss.me/twitter_user_to_rss/?user=IntezerLabs
+- http://feeds.feedburner.com/PaloAltoNetworks
+- http://feeds.trendmicro.com/Anti-MalwareBlog
+- https://www.riskiq.com/feed/
+- https://www.kb.cert.org/vulfeed
+- http://www.invokethreat.actor/feeds/posts/default
+- http://baesystemsai.blogspot.com/feeds/posts/default
+- http://asec.ahnlab.com/rss
+- https://github.com/hslatman/awesome-threat-intelligence/commits/master.atom
+- http://www.symantec.com/connect/ko/item-feeds/blog/2261/feed/all/ko/all
+- https://www.symantec.com/connect/item-feeds/blog/2261/feed/all/en/all
+- https://www.fireeye.com/blog/threat-research/_jcr_content.feed
+- https://securingtomorrow.mcafee.com/category/mcafee-labs/feed/
+- https://www.thezdi.com/blog?format=RSS
+- http://www.msreverseengineering.com/blog?format=RSS
+- https://www.darkowl.com/blog?format=RSS
+- https://blog.quarkslab.com/feeds/all.rss.xml
+- http://feeds.feedburner.com/fortinet/blog/threat-research
+- http://feeds.feedburner.com/feedburner/Talos
+- http://feeds.feedburner.com/CiscoBlogThreatResearch
+- https://www.intezer.com/feed/
+- https://www.virusbulletin.com/rss
+- http://twitrss.me/twitter_user_to_rss/?user=360CoreSec
+- https://blog.exodusintel.com/feed/
